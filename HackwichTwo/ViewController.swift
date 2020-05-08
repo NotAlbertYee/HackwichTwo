@@ -18,5 +18,7 @@ class ViewController: UIViewController {
     @IBAction func buttonOnePressed(_ sender: Any) {
     }
     
+    @IBAction func twice(_ sender: Any) {
+    }
 }
 

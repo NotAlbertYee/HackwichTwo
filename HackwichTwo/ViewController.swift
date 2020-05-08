@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func buttonOnePressed(_ sender: Any) {
+    }
+    
 }
 
